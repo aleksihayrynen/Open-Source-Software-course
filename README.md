@@ -1,8 +1,8 @@
 # Introduction #
 
 **1. Who am I ❓?**   
-  My name is Aleksi Häyrynen
-**2. What do I study 📖?**
+  My name is Aleksi Häyrynen  
+**2. What do I study 📖?**  
   IT and during my exhange period Computer Science to be specific  
 **3. How old am I 🎂?**  
   25 years-old   
