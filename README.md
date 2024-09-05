@@ -11,7 +11,7 @@
 
 
 <div style="display:flex; justify-content:center;">
-    <img src="./assets/pictures.jpg"   width="200" height="400"/>
+    <img src="./assets/picture.png"   width="200" height="400"/>
 </div>
 
 
